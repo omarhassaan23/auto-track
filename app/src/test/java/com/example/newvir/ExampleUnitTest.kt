@@ -1,4 +1,4 @@
-package com.example.workapp
+package com.example.newvir
 
 import org.junit.Test
 

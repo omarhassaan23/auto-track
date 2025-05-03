@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "work app"
+rootProject.name = "new vir"
 include(":app")
  
